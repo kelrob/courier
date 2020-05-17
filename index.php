@@ -24,8 +24,8 @@
                             <p>For Personal & Business</p>
                             <h3>Global Logistic Service For Business</h3>
                         </div>
-                        <form>
-                            <input type="text" class="form-control p-3" style="width: 40%; border-radius:0; border-style: none;" placeholder="Enter your Tracking key" />
+                        <form post="get" action="track-package">
+                            <input type="text" name="key" class="form-control p-3" style="width: 40%; border-radius:0; border-style: none;" placeholder="Enter your Tracking key" />
                             <div class="form-group mt-1">
                                 <input type="submit" class="boxed-btn3 p-3 pl-4 pr-4" value="Track Now">
                             </div>
