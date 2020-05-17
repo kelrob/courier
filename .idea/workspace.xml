@@ -11,281 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d584231-70b0-4f4c-b41d-922382a8e84e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/custom-styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/materialize.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/fonts/fontawesome-webfontba72.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/fonts/fontawesome-webfontba72.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/fonts/fontawesome-webfontba72.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/glyphicons-halflings-regulard41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/css/material-design-iconic-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/css/material-design-iconic-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/montserrat/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/fonts/raleway/Raleway-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/images/bg-ade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/images/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/images/icons/icon-google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/images/img-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/img/bg-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/Chart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/bootstrap-switch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/circle-progress.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/fileinput.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/ion.rangeSlider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/isotope.pkg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/jquery.countdownTimer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/lc_switch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/masonry.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/selectize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/sweetalert.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js-plugins/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/cssCharts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/index - Copy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/jquery.chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/Lightweight-Chart/jquery.chart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/chart-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/chart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/custom-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/dataTables/dataTables.bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/dataTables/dataTables.bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/dataTables/jquery.dataTables.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/easypiechart-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/easypiechart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/jquery-1.10.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/jquery.metisMenu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/morris/morris-0.4.3.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/morris/morris.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/js/morris/raphael-2.1.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/css/materialize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/css/materialize.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Thin.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/fonts/roboto/Roboto-Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/js/materialize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/materialize/js/materialize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/animate/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/animsition/css/animsition.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/animsition/css/animsition.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/animsition/js/animsition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/animsition/js/animsition.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/js/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/countdowntime/countdowntime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/daterangepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/daterangepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/daterangepicker/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/daterangepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/select2/select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/vendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/dashboard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/empty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/inc/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/inc/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/inc/sidebar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/inc/topNav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/ginit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/jquery-1.10.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/jquery.form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/jquery.form.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/loader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/product.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TofaAdmin/view_allusers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/app/Http/Controllers/ViewEngine.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/app/Http/Controllers/ViewEngine.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/public/education/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/public/education/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/dashboard/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/dashboard/dashboard.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/dashboard/dashlayout/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/dashboard/dashlayout/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/loadsubcatpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/loadsubcatpage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/quespage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/quespage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/template.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/template.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +23,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -425,8 +151,16 @@
       <workItem from="1589549802559" duration="63000" />
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
-      <workItem from="1589716531470" duration="3614000" />
+      <workItem from="1589716531470" duration="3785000" />
     </task>
+    <task id="LOCAL-00001" summary="This is a commit Message">
+      <created>1589721467119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589721467119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,11 +202,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is a commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a commit Message" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="600" y="286" key="#Notifications" timestamp="1589719847249">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
     <state x="600" y="286" key="#Notifications/0.23.1440.839@0.23.1440.839" timestamp="1589719847249" />
+    <state x="261" y="23" key="CommitChangelistDialog2" timestamp="1589721466343">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="261" y="23" key="CommitChangelistDialog2/0.23.1440.839@0.23.1440.839" timestamp="1589721466343" />
     <state x="268" y="86" key="SettingsEditor" timestamp="1589717911474">
       <screen x="0" y="23" width="1440" height="839" />
     </state>

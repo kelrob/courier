@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<head>
+<head lang="en">
     <?php include_once 'includes/head.php'; ?>
 </head>
 
