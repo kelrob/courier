@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d584231-70b0-4f4c-b41d-922382a8e84e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,7 @@
       <workItem from="1589549802559" duration="63000" />
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
-      <workItem from="1589716531470" duration="3785000" />
+      <workItem from="1589716531470" duration="4160000" />
     </task>
     <task id="LOCAL-00001" summary="This is a commit Message">
       <created>1589721467119</created>
