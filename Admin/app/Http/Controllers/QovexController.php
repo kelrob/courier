@@ -29,7 +29,7 @@ class QovexController extends Controller
         }
 
         if(view()->exists($request->path())){
-            return view($request->path(), compact('userName', 'packages', 'detail'));
+            return view($request->path(), compact('userName', 'packages', 'detail', 'tracker'));
         }
         return view('pages-404');
     }
@@ -163,5 +163,16 @@ class QovexController extends Controller
         $package->save();
 
         return true;
+    }
+
+    public function trackPackage(Request $request) {
+        if ($request->get('key')) {
+            $key = $request->get('key');
+            $tracker = Package::where('tracking_key', $key)->first();
+
+            return view('track-key');
+        } else {
+            $tracker = '';
+        }
     }
 }

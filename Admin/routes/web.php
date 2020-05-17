@@ -19,6 +19,7 @@ Route::get('/', function () {
 
 Auth::routes();
 Route::get('logout', 'QovexController@logout');
+Route::get('track-package', 'QovexController@trackPackage');
 
 Route::get('pages-login', 'QovexController@index');
 Route::get('pages-login-2', 'QovexController@index');
