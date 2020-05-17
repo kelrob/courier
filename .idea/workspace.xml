@@ -283,8 +283,6 @@
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -424,7 +422,7 @@
       <workItem from="1589549802559" duration="63000" />
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
-      <workItem from="1589716531470" duration="2792000" />
+      <workItem from="1589716531470" duration="3126000" />
     </task>
     <servers />
   </component>
@@ -468,6 +466,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="600" y="286" key="#Notifications" timestamp="1589719847249">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="600" y="286" key="#Notifications/0.23.1440.839@0.23.1440.839" timestamp="1589719847249" />
     <state x="268" y="86" key="SettingsEditor" timestamp="1589717911474">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
