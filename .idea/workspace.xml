@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2d584231-70b0-4f4c-b41d-922382a8e84e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../TofaAdmin/assets/css/bootstrap-theme.min.css" beforeDir="false" />
@@ -274,6 +283,8 @@
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,6 +297,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -412,16 +424,57 @@
       <workItem from="1589549802559" duration="63000" />
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
+      <workItem from="1589716531470" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="268" y="86" key="SettingsEditor" timestamp="1589613284067">
+    <state x="268" y="86" key="SettingsEditor" timestamp="1589717911474">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state x="268" y="86" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1589613284067" />
+    <state x="268" y="86" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1589717911474" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1589718006693">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.839@0.23.1440.839" timestamp="1589718006693" />
   </component>
 </project>
