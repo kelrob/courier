@@ -283,6 +283,9 @@
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/topics.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/resources/views/viewsubcatpage.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,7 +425,7 @@
       <workItem from="1589549802559" duration="63000" />
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
-      <workItem from="1589716531470" duration="3126000" />
+      <workItem from="1589716531470" duration="3614000" />
     </task>
     <servers />
   </component>
