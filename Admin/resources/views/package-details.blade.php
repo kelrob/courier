@@ -53,7 +53,7 @@
                                         </tr>
                                         <tr>
                                             @if($detail->package_image != null)
-                                                <td><img src="{{ $detail->package_image }}" class="img-responsive"/>
+                                                <td><img src="img/packages/{{ $detail->package_image }}" class="img-fluid"/>
                                                 </td>
                                             @else
                                                 <td>No Image</td>
@@ -135,7 +135,7 @@
                             <a class="btn btn-primary text-white" data-toggle="modal" data-target="#myModal">Change
                                 Location / Status</a>
                             &nbsp;&nbsp;
-                            <a href="delete-package.php?id=48" class="btn btn-danger">Delete Package</a>
+                            <a href="package/delete/{{ $detail->id }}" class="btn btn-danger">Delete Package</a>
                         </div>
                     </div>
                 </div>

@@ -165,6 +165,11 @@ class QovexController extends Controller
         return true;
     }
 
+    public function deletePackage($id) {
+        $package  = Package::where('id', $id)->delete();
+        return redirect(url('index'));
+    }
+
     public function trackPackage(Request $request) {
         if ($request->get('key')) {
             $key = $request->get('key');
