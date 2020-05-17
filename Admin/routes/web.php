@@ -33,6 +33,8 @@ Route::get('pages-500', 'QovexController@index');
 Route::get('pages-maintenance', 'QovexController@index');
 Route::get('pages-comingsoon', 'QovexController@index');
 Route::post('login-status', 'QovexController@checkStatus');
+Route::post('submit-package', 'QovexController@submitPackage');
+Route::post('package/edit/{id}', 'QovexController@editPackage');
 
 
 // You can also use auth middleware to prevent unauthenticated users
