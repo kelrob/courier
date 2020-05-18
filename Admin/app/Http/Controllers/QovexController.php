@@ -19,7 +19,8 @@ class QovexController extends Controller
     {
 
         $userName  = Auth::user()->name;
-        $packages = Package::all();
+        $adminId = Auth::user()->id;
+        $packages = Package::where('admin_id', $adminId)->get();
 
         if ($request->get('id')) {
             $id = $request->get('id');
@@ -140,6 +141,7 @@ class QovexController extends Controller
 
             $uploadFile = $package->move($target_directory, $filename);
             if ($uploadFile) {
+                $request['admin_id'] = Auth::user()->id;
                 $request['package_image'] = $dbPackageName;
                 $request['tracking_key'] = randomString();
                 $request->except(['_token', 'submit']);
@@ -148,6 +150,7 @@ class QovexController extends Controller
                 return redirect(url('index'));
             }
         } else {
+            $request['admin_id'] = Auth::user()->id;
             $request['tracking_key'] = randomString();
             $request->except(['_token', 'submit']);
             Package::create($request->all());
