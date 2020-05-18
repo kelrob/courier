@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-4 col-lg-4">
                         <div class="logo">
-                            <a href="index.php">
+                            <a href="index">
                                 <h3>PACIFIC GLOBAL EXPRESS</h3>
                                 <!-- <img src="img/logo.png" alt=""> -->
                             </a>
@@ -34,8 +34,8 @@
                     <div class="row align-items-center">
                         <div class="col-12 d-block d-lg-none">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                <a href="index">
+                                    <h3>Pacific Global Express</h3>
                                 </a>
                             </div>
                         </div>
@@ -45,7 +45,7 @@
                                     <ul id="navigation">
                                         <li><a  href="index">home</a></li>
                                         <li><a  href="service">Services</a></li>
-                                        <li><a href="About">about</a></li>
+                                        <li><a href="about">about</a></li>
                                         <!-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="service_details.html">service details</a></li>
