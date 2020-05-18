@@ -12,10 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d584231-70b0-4f4c-b41d-922382a8e84e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/database/migrations/2020_05_17_150122_create_packages_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/database/migrations/2020_05_17_150122_create_packages_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,8 @@
       <workItem from="1589549891112" duration="68000" />
       <workItem from="1589549973853" duration="2659000" />
       <workItem from="1589716531470" duration="23667000" />
-      <workItem from="1589783393077" duration="1222000" />
+      <workItem from="1589783393077" duration="2458000" />
+      <workItem from="1589789972621" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="This is a commit Message">
       <created>1589721467119</created>
